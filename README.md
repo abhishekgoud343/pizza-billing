@@ -10,7 +10,7 @@ Extra Toppings For Veg Pizza = 70\
 Extra Toppings For Non-veg Pizza = 120\
 Paper bag Price = 20
 
-**Bill Structure Example:**
+**Bill Structure Example:**\
 Example 1:\
 Base Price Of The Pizza: 300\
 Extra Cheese Added: 80\
@@ -25,5 +25,5 @@ Extra Toppings Added: 120\
 Total Price: 600
 
 **Note:**\
-Even if the customer asks for extra cheese or toppings by invoking the method multiple times, but it is not to be added in the bill multiple times.\
-The extra cheese is added before the extra toppings if the customer asks for both, and the same is reflected in the billing.\
+Even if the customer asks for extra cheese or toppings by invoking the method multiple times, it is not to be added in the bill multiple times.\
+The extra cheese is added before the extra toppings if the customer asks for both, and the same is reflected in the billing.
